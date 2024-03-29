@@ -1,6 +1,6 @@
 # Integrated Data Science Approach in Parkinson's Disease Analysis
 
-Developed by Anna Maria Teodori, Ardalan Mehraram, and Michele Gazzola, this project aims to apply data science methodologies to analyze drawings and articles related to Parkinson's disease patients, providing insights into the disease's progression and severity.
+this project aims to apply data science methodologies to analyze drawings and articles related to Parkinson's disease patients, providing insights into the disease's progression and severity.
 
 ## Project Overview
 
@@ -38,4 +38,4 @@ We developed models to predict Parkinson's disease severity, employing Logistic 
 - Expand text mining and topic modeling to additional sources.
 - Incorporate more diverse data sources for comprehensive analysis.
 
-We thank all contributors and supporters of this project. For further details on our methodologies, findings, and future work, please refer to the full project documentation in this repository.
+For further details on our methodologies, findings, and future work, please refer to the full project documentation in this repository.
